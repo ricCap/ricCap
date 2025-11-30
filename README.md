@@ -21,9 +21,8 @@ My focus areas:
 
 ### Speaking & Community
 
-🎤 **Conference Speaker** — Cloud Native Days Italy, Meetups, and more
-🎙️ **Meetup Organizer** — [Vienna DevOps Meetup](https://www.meetup.com/meetup-group-ziwnrlfj/) & [Cloud Native Trento](https://www.meetup.com/cloud-native-trento/)
-🎓 **Kubestronaut** — CNCF Kubernetes certifications
+- 🎤 **Conference Speaker** — Cloud Native Days Italy, Meetups, and more
+- 🎙️ **Meetup Organizer** — [Vienna DevOps Meetup](https://www.meetup.com/meetup-group-ziwnrlfj/) & [Cloud Native Trento](https://www.meetup.com/cloud-native-trento/)
 
 ---
 
