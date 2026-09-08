@@ -32,7 +32,7 @@ My focus areas:
 | Cloud Native Days Austria | September 2026 | Vienna 🇦🇹 — _upcoming_     |
 | Cloud Native Summit       | June 2026      | Munich 🇩🇪          |
 | Cloud Native Days Italy   | May 2026       | Bologna 🇮🇹         |
-| NAVIGATE                  | March 2026     | —                  |
+| NAVIGATE                  | March 2026     | Remote 🌐          |
 
 Full talk history and abstracts on [Sessionize](https://sessionize.com/capraroriccardo).
 
@@ -46,6 +46,8 @@ Full talk history and abstracts on [Sessionize](https://sessionize.com/caprarori
 | [terraform-provider-uptrace](https://github.com/ricCap/terraform-provider-uptrace) | OpenTofu/Terraform provider for Uptrace monitoring resources    |
 | [crossplane-workshop](https://github.com/ricCap/crossplane-workshop)             | Hands-on GitOps + Crossplane workshop on vCluster sandboxes     |
 | [cncf-miro-iconpack](https://github.com/ricCap/cncf-miro-iconpack)               | Every CNCF logo as a Miro Custom Shape pack                     |
+
+Also contributing upstream to [crossplane-contrib/provider-http](https://github.com/crossplane-contrib/provider-http) — namespaced resources and the Crossplane v2 runtime upgrade.
 
 ---
 
