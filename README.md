@@ -1,6 +1,6 @@
 # Hi, I'm Riccardo 👋
 
-**Cloud Infrastructure & Platform Engineering** • Freelancer based in Trento, Italy 🇮🇹
+**Cloud Native & Platform Engineering** • Freelancer based in Trento, Italy 🇮🇹
 
 > _From Paper to Production_ — I design AND implement solutions.
 
