@@ -2,13 +2,11 @@
 
 **Cloud Native & Platform Engineering** • Freelancer based in Trento, Italy 🇮🇹
 
-> _From Paper to Production_ — I design AND implement solutions.
-
 ---
 
 ### What I Do
 
-I help companies deliver impact by building **Internal Developer Platforms**, **Cloud architectures**, and managing **critical applications in production**.
+I help companies build and design **Internal Developer Platforms**, **Cloud architectures**, and manage **critical applications in production**.
 
 My focus areas:
 
@@ -28,8 +26,9 @@ My focus areas:
 
 | Event                     | When           | Where              |
 | ------------------------- | -------------- | ------------------ |
-| Cloud Native Denmark      | November 2026  | Copenhagen 🇩🇰 — _upcoming_ |
-| Cloud Native Days Austria | September 2026 | Vienna 🇦🇹 — _upcoming_     |
+| Cloud Native Denmark      | November 2026  | Copenhagen 🇩🇰 — _upcoming_ |ù
+| SFSCon      | November 2026  | Bolzano 🇮🇹 — _upcoming_ |
+| Cloud Native Days Austria | September 2026 | Vienna 🇦🇹      |
 | Cloud Native Summit       | June 2026      | Munich 🇩🇪          |
 | Cloud Native Days Italy   | May 2026       | Bologna 🇮🇹         |
 | NAVIGATE                  | March 2026     | Remote 🌐          |
@@ -57,7 +56,3 @@ Also contributing upstream to [crossplane-contrib/provider-http](https://github.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/capraroriccardo)
 [![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/capraroriccardo)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/riccap)
-
----
-
-<sub>_Proactive. Pragmatic. Who always delivers._ ✨</sub>
