@@ -27,7 +27,7 @@ My focus areas:
 | Event                     | When           | Where              |
 | ------------------------- | -------------- | ------------------ |
 | Cloud Native Denmark      | November 2026  | Copenhagen 🇩🇰 — _upcoming_ |ù
-| SFSCon      | November 2026  | Bolzano 🇮🇹 — _upcoming_ |
+| SFSCON      | November 2026  | Bolzano 🇮🇹 — _upcoming_ |
 | Cloud Native Days Austria | September 2026 | Vienna 🇦🇹      |
 | Cloud Native Summit       | June 2026      | Munich 🇩🇪          |
 | Cloud Native Days Italy   | May 2026       | Bologna 🇮🇹         |
